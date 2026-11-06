@@ -1,0 +1,12 @@
+{
+  "aktiv": true,
+  "nachricht": "",
+  "spieler": {
+    "1e36726a0be8b48288e0de37d9258b86fbf6707f93d74d70dfb597c1e501ad9e": "Tim",
+    "fd846a3e2b31469f47cad667871ef8b30b75865fcd178153a150c00097190c27": "Freund1",
+    "d8a844908d907c92ea8f8b7005926f327b282dab2b2ac58d026ae794d9d74d0b": "Freund2",
+    "67d792a79ed1d1c79fefa7eb23c3ac801e5ff3e94fb2717f3e6496e499e7867f": "Freund3",
+    "adee4b00b5f2d005f5b56f72b49e28570e439f6f5e177a5fdd22930d54b44d9e": "Freund4",
+    "a81ac3b1196510a9b8f5676ded804e603217f93a42ad6af7b2f7bf46f28e5e88": "Freund5"
+  }
+}
